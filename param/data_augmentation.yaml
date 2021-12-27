@@ -1,0 +1,4 @@
+origin_img_path: /mnt/Data/3w/dataset/confirmed_dataset/up_down4
+origin_txt_path: /mnt/Data/3w/dataset/confirmed_dataset/up_down4
+save_img_path: /mnt/Data/3w/dataset/confirmed_dataset/aug
+file_ext: JPG

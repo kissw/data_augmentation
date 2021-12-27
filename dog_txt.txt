@@ -1,0 +1,2 @@
+/home/kdh/watt/Yolo_tools/data_augmentation/img/IMG_2397_6.JPG
+/home/kdh/watt/Yolo_tools/data_augmentation/img/IMG_2397_7.JPG
