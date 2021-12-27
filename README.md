@@ -38,5 +38,5 @@ conda 환경설치 방법은 상위 폴더를 참조
 ```
 (base) $ conda activate watt
 
-(3w) $ python src/data_augmentation.py
+(3w) $ python src/data_augmentation_bbox.py
 ```
